@@ -26,12 +26,11 @@ function generateSVG(weeks) {
     week.contributionDays.forEach((day) => {
       const active = day.contributionCount > 0;
 
-      svg += `
-        <rect x="${x}" y="${y}" width="12" height="12"
-          class="cell ${active ? "active" : ""}" />
-      `;
+      svg += `<rect x="${x}" y="${y}" width="12" height="12" class="cell ${active ? "active" : ""}" />`;
 
-      if (active) activeCells.push({ x: x + 6, y: y + 6 });
+      if (active) {
+        activeCells.push({ x: x + 6, y: y + 6 });
+      }
 
       y += 18;
     });
@@ -42,18 +41,11 @@ function generateSVG(weeks) {
   activeCells.forEach((cell, i) => {
     svg += `
       <circle r="4" class="comet">
-        <animate attributeName="cx"
-          from="${cell.x - 20}"
-          to="${cell.x}"
-          dur="0.5s"
-          begin="${i * 0.5}s"
-          repeatCount="indefinite" />
-        <animate attributeName="cy"
-          from="${cell.y - 30}"
-          to="${cell.y}"
-          dur="0.5s"
-          begin="${i * 0.5}s"
-          repeatCount="indefinite" />
+        <animateMotion
+          dur="0.6s"
+          begin="${i * 0.6}s"
+          repeatCount="indefinite"
+          path="M ${cell.x - 30} ${cell.y - 40} L ${cell.x} ${cell.y}" />
       </circle>
     `;
   });

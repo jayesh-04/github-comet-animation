@@ -1,5 +1,3 @@
-const fetch = require("node-fetch");
-
 async function getContributions(username, token) {
   const query = `
     query {

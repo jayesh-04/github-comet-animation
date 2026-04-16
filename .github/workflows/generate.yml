@@ -1,6 +1,5 @@
 name: Generate Comet Animation
 
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -14,11 +13,11 @@ jobs:
       contents: write
 
     steps:
--    uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
--    uses: actions/setup-node@v4
-      with:
-        node-version: 18
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
 
       - run: npm install
 

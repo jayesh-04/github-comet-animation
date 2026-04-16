@@ -1,5 +1,6 @@
 name: Generate Comet Animation
 
+
 on:
   schedule:
     - cron: "0 0 * * *"

@@ -21,6 +21,9 @@ jobs:
 
       - run: npm install
 
+      - name: Create output directory
+        run: mkdir -p output
+
       - run: node src/index.js
         env:
           GITHUB_USERNAME: jayesh-04

@@ -1,9 +1,12 @@
 const fs = require("fs");
+const path = require("path");
 
 function generateSVG(weeks) {
-  // Ensure output directory exists
-  if (!fs.existsSync("output")) {
-    fs.mkdirSync("output", { recursive: true });
+  const outputDir = path.join(__dirname, "..", "output");
+  const outputFile = path.join(outputDir, "comet-contributions.svg");
+
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
   }
 
   let svg = `<svg width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
@@ -34,7 +37,7 @@ function generateSVG(weeks) {
 
   svg += `</svg>`;
 
-  fs.writeFileSync("output/comet-contributions.svg", svg);
+  fs.writeFileSync(outputFile, svg);
 }
 
 module.exports = generateSVG;

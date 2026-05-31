@@ -4,13 +4,13 @@
       .active { fill: #39d353; }
       .comet { fill: cyan; filter: drop-shadow(0 0 6px cyan); }
     </style>
-  <rect x="20" y="20" width="12" height="12" class="cell " /><rect x="20" y="38" width="12" height="12" class="cell " /><rect x="20" y="56" width="12" height="12" class="cell " /><rect x="20" y="74" width="12" height="12" class="cell " /><rect x="20" y="92" width="12" height="12" class="cell " /><rect x="20" y="110" width="12" height="12" class="cell " /><rect x="20" y="128" width="12" height="12" class="cell " /><rect x="38" y="20" width="12" height="12" class="cell " /><rect x="38" y="38" width="12" height="12" class="cell " /><rect x="38" y="56" width="12" height="12" class="cell " /><rect x="38" y="74" width="12" height="12" class="cell " /><rect x="38" y="92" width="12" height="12" class="cell " /><rect x="38" y="110" width="12" height="12" class="cell " /><rect x="38" y="128" width="12" height="12" class="cell " /><rect x="56" y="20" width="12" height="12" class="cell " /><rect x="56" y="38" width="12" height="12" class="cell " /><rect x="56" y="56" width="12" height="12" class="cell " /><rect x="56" y="74" width="12" height="12" class="cell " /><rect x="56" y="92" width="12" height="12" class="cell " /><rect x="56" y="110" width="12" height="12" class="cell " /><rect x="56" y="128" width="12" height="12" class="cell " /><rect x="74" y="20" width="12" height="12" class="cell " /><rect x="74" y="38" width="12" height="12" class="cell " /><rect x="74" y="56" width="12" height="12" class="cell " /><rect x="74" y="74" width="12" height="12" class="cell " /><rect x="74" y="92" width="12" height="12" class="cell " /><rect x="74" y="110" width="12" height="12" class="cell " /><rect x="74" y="128" width="12" height="12" class="cell " /><rect x="92" y="20" width="12" height="12" class="cell " /><rect x="92" y="38" width="12" height="12" class="cell " /><rect x="92" y="56" width="12" height="12" class="cell " /><rect x="92" y="74" width="12" height="12" class="cell " /><rect x="92" y="92" width="12" height="12" class="cell " /><rect x="92" y="110" width="12" height="12" class="cell " /><rect x="92" y="128" width="12" height="12" class="cell " /><rect x="110" y="20" width="12" height="12" class="cell " /><rect x="110" y="38" width="12" height="12" class="cell " /><rect x="110" y="56" width="12" height="12" class="cell " /><rect x="110" y="74" width="12" height="12" class="cell " /><rect x="110" y="92" width="12" height="12" class="cell " /><rect x="110" y="110" width="12" height="12" class="cell " /><rect x="110" y="128" width="12" height="12" class="cell " /><rect x="128" y="20" width="12" height="12" class="cell " /><rect x="128" y="38" width="12" height="12" class="cell " /><rect x="128" y="56" width="12" height="12" class="cell " /><rect x="128" y="74" width="12" height="12" class="cell " /><rect x="128" y="92" width="12" height="12" class="cell " /><rect x="128" y="110" width="12" height="12" class="cell " /><rect x="128" y="128" width="12" height="12" class="cell " /><rect x="146" y="20" width="12" height="12" class="cell " /><rect x="146" y="38" width="12" height="12" class="cell " /><rect x="146" y="56" width="12" height="12" class="cell " /><rect x="146" y="74" width="12" height="12" class="cell " /><rect x="146" y="92" width="12" height="12" class="cell " /><rect x="146" y="110" width="12" height="12" class="cell " /><rect x="146" y="128" width="12" height="12" class="cell " /><rect x="164" y="20" width="12" height="12" class="cell " /><rect x="164" y="38" width="12" height="12" class="cell " /><rect x="164" y="56" width="12" height="12" class="cell " /><rect x="164" y="74" width="12" height="12" class="cell " /><rect x="164" y="92" width="12" height="12" class="cell " /><rect x="164" y="110" width="12" height="12" class="cell " /><rect x="164" y="128" width="12" height="12" class="cell " /><rect x="182" y="20" width="12" height="12" class="cell " /><rect x="182" y="38" width="12" height="12" class="cell " /><rect x="182" y="56" width="12" height="12" class="cell " /><rect x="182" y="74" width="12" height="12" class="cell " /><rect x="182" y="92" width="12" height="12" class="cell " /><rect x="182" y="110" width="12" height="12" class="cell " /><rect x="182" y="128" width="12" height="12" class="cell " /><rect x="200" y="20" width="12" height="12" class="cell " /><rect x="200" y="38" width="12" height="12" class="cell " /><rect x="200" y="56" width="12" height="12" class="cell " /><rect x="200" y="74" width="12" height="12" class="cell " /><rect x="200" y="92" width="12" height="12" class="cell " /><rect x="200" y="110" width="12" height="12" class="cell " /><rect x="200" y="128" width="12" height="12" class="cell " /><rect x="218" y="20" width="12" height="12" class="cell " /><rect x="218" y="38" width="12" height="12" class="cell " /><rect x="218" y="56" width="12" height="12" class="cell " /><rect x="218" y="74" width="12" height="12" class="cell " /><rect x="218" y="92" width="12" height="12" class="cell " /><rect x="218" y="110" width="12" height="12" class="cell " /><rect x="218" y="128" width="12" height="12" class="cell " /><rect x="236" y="20" width="12" height="12" class="cell " /><rect x="236" y="38" width="12" height="12" class="cell " /><rect x="236" y="56" width="12" height="12" class="cell " /><rect x="236" y="74" width="12" height="12" class="cell " /><rect x="236" y="92" width="12" height="12" class="cell " /><rect x="236" y="110" width="12" height="12" class="cell " /><rect x="236" y="128" width="12" height="12" class="cell " /><rect x="254" y="20" width="12" height="12" class="cell " /><rect x="254" y="38" width="12" height="12" class="cell " /><rect x="254" y="56" width="12" height="12" class="cell " /><rect x="254" y="74" width="12" height="12" class="cell " /><rect x="254" y="92" width="12" height="12" class="cell " /><rect x="254" y="110" width="12" height="12" class="cell " /><rect x="254" y="128" width="12" height="12" class="cell " /><rect x="272" y="20" width="12" height="12" class="cell " /><rect x="272" y="38" width="12" height="12" class="cell " /><rect x="272" y="56" width="12" height="12" class="cell " /><rect x="272" y="74" width="12" height="12" class="cell " /><rect x="272" y="92" width="12" height="12" class="cell " /><rect x="272" y="110" width="12" height="12" class="cell " /><rect x="272" y="128" width="12" height="12" class="cell " /><rect x="290" y="20" width="12" height="12" class="cell active" /><rect x="290" y="38" width="12" height="12" class="cell active" /><rect x="290" y="56" width="12" height="12" class="cell active" /><rect x="290" y="74" width="12" height="12" class="cell active" /><rect x="290" y="92" width="12" height="12" class="cell active" /><rect x="290" y="110" width="12" height="12" class="cell " /><rect x="290" y="128" width="12" height="12" class="cell " /><rect x="308" y="20" width="12" height="12" class="cell active" /><rect x="308" y="38" width="12" height="12" class="cell " /><rect x="308" y="56" width="12" height="12" class="cell " /><rect x="308" y="74" width="12" height="12" class="cell " /><rect x="308" y="92" width="12" height="12" class="cell " /><rect x="308" y="110" width="12" height="12" class="cell " /><rect x="308" y="128" width="12" height="12" class="cell " /><rect x="326" y="20" width="12" height="12" class="cell active" /><rect x="326" y="38" width="12" height="12" class="cell " /><rect x="326" y="56" width="12" height="12" class="cell active" /><rect x="326" y="74" width="12" height="12" class="cell " /><rect x="326" y="92" width="12" height="12" class="cell " /><rect x="326" y="110" width="12" height="12" class="cell active" /><rect x="326" y="128" width="12" height="12" class="cell " /><rect x="344" y="20" width="12" height="12" class="cell " /><rect x="344" y="38" width="12" height="12" class="cell active" /><rect x="344" y="56" width="12" height="12" class="cell active" /><rect x="344" y="74" width="12" height="12" class="cell " /><rect x="344" y="92" width="12" height="12" class="cell " /><rect x="344" y="110" width="12" height="12" class="cell " /><rect x="344" y="128" width="12" height="12" class="cell " /><rect x="362" y="20" width="12" height="12" class="cell active" /><rect x="362" y="38" width="12" height="12" class="cell active" /><rect x="362" y="56" width="12" height="12" class="cell " /><rect x="362" y="74" width="12" height="12" class="cell " /><rect x="362" y="92" width="12" height="12" class="cell " /><rect x="362" y="110" width="12" height="12" class="cell active" /><rect x="362" y="128" width="12" height="12" class="cell " /><rect x="380" y="20" width="12" height="12" class="cell active" /><rect x="380" y="38" width="12" height="12" class="cell active" /><rect x="380" y="56" width="12" height="12" class="cell active" /><rect x="380" y="74" width="12" height="12" class="cell " /><rect x="380" y="92" width="12" height="12" class="cell " /><rect x="380" y="110" width="12" height="12" class="cell " /><rect x="380" y="128" width="12" height="12" class="cell " /><rect x="398" y="20" width="12" height="12" class="cell " /><rect x="398" y="38" width="12" height="12" class="cell " /><rect x="398" y="56" width="12" height="12" class="cell " /><rect x="398" y="74" width="12" height="12" class="cell " /><rect x="398" y="92" width="12" height="12" class="cell " /><rect x="398" y="110" width="12" height="12" class="cell " /><rect x="398" y="128" width="12" height="12" class="cell " /><rect x="416" y="20" width="12" height="12" class="cell " /><rect x="416" y="38" width="12" height="12" class="cell " /><rect x="416" y="56" width="12" height="12" class="cell " /><rect x="416" y="74" width="12" height="12" class="cell " /><rect x="416" y="92" width="12" height="12" class="cell " /><rect x="416" y="110" width="12" height="12" class="cell " /><rect x="416" y="128" width="12" height="12" class="cell " /><rect x="434" y="20" width="12" height="12" class="cell " /><rect x="434" y="38" width="12" height="12" class="cell " /><rect x="434" y="56" width="12" height="12" class="cell " /><rect x="434" y="74" width="12" height="12" class="cell " /><rect x="434" y="92" width="12" height="12" class="cell " /><rect x="434" y="110" width="12" height="12" class="cell " /><rect x="434" y="128" width="12" height="12" class="cell " /><rect x="452" y="20" width="12" height="12" class="cell active" /><rect x="452" y="38" width="12" height="12" class="cell " /><rect x="452" y="56" width="12" height="12" class="cell " /><rect x="452" y="74" width="12" height="12" class="cell " /><rect x="452" y="92" width="12" height="12" class="cell " /><rect x="452" y="110" width="12" height="12" class="cell " /><rect x="452" y="128" width="12" height="12" class="cell " /><rect x="470" y="20" width="12" height="12" class="cell " /><rect x="470" y="38" width="12" height="12" class="cell " /><rect x="470" y="56" width="12" height="12" class="cell " /><rect x="470" y="74" width="12" height="12" class="cell " /><rect x="470" y="92" width="12" height="12" class="cell " /><rect x="470" y="110" width="12" height="12" class="cell " /><rect x="470" y="128" width="12" height="12" class="cell " /><rect x="488" y="20" width="12" height="12" class="cell " /><rect x="488" y="38" width="12" height="12" class="cell " /><rect x="488" y="56" width="12" height="12" class="cell " /><rect x="488" y="74" width="12" height="12" class="cell " /><rect x="488" y="92" width="12" height="12" class="cell " /><rect x="488" y="110" width="12" height="12" class="cell " /><rect x="488" y="128" width="12" height="12" class="cell " /><rect x="506" y="20" width="12" height="12" class="cell " /><rect x="506" y="38" width="12" height="12" class="cell " /><rect x="506" y="56" width="12" height="12" class="cell " /><rect x="506" y="74" width="12" height="12" class="cell " /><rect x="506" y="92" width="12" height="12" class="cell " /><rect x="506" y="110" width="12" height="12" class="cell " /><rect x="506" y="128" width="12" height="12" class="cell " /><rect x="524" y="20" width="12" height="12" class="cell " /><rect x="524" y="38" width="12" height="12" class="cell active" /><rect x="524" y="56" width="12" height="12" class="cell " /><rect x="524" y="74" width="12" height="12" class="cell active" /><rect x="524" y="92" width="12" height="12" class="cell active" /><rect x="524" y="110" width="12" height="12" class="cell active" /><rect x="524" y="128" width="12" height="12" class="cell active" /><rect x="542" y="20" width="12" height="12" class="cell " /><rect x="542" y="38" width="12" height="12" class="cell " /><rect x="542" y="56" width="12" height="12" class="cell " /><rect x="542" y="74" width="12" height="12" class="cell " /><rect x="542" y="92" width="12" height="12" class="cell " /><rect x="542" y="110" width="12" height="12" class="cell " /><rect x="542" y="128" width="12" height="12" class="cell " /><rect x="560" y="20" width="12" height="12" class="cell " /><rect x="560" y="38" width="12" height="12" class="cell " /><rect x="560" y="56" width="12" height="12" class="cell " /><rect x="560" y="74" width="12" height="12" class="cell " /><rect x="560" y="92" width="12" height="12" class="cell " /><rect x="560" y="110" width="12" height="12" class="cell " /><rect x="560" y="128" width="12" height="12" class="cell " /><rect x="578" y="20" width="12" height="12" class="cell active" /><rect x="578" y="38" width="12" height="12" class="cell " /><rect x="578" y="56" width="12" height="12" class="cell " /><rect x="578" y="74" width="12" height="12" class="cell " /><rect x="578" y="92" width="12" height="12" class="cell " /><rect x="578" y="110" width="12" height="12" class="cell " /><rect x="578" y="128" width="12" height="12" class="cell " /><rect x="596" y="20" width="12" height="12" class="cell " /><rect x="596" y="38" width="12" height="12" class="cell " /><rect x="596" y="56" width="12" height="12" class="cell " /><rect x="596" y="74" width="12" height="12" class="cell " /><rect x="596" y="92" width="12" height="12" class="cell " /><rect x="596" y="110" width="12" height="12" class="cell " /><rect x="596" y="128" width="12" height="12" class="cell " /><rect x="614" y="20" width="12" height="12" class="cell " /><rect x="614" y="38" width="12" height="12" class="cell " /><rect x="614" y="56" width="12" height="12" class="cell " /><rect x="614" y="74" width="12" height="12" class="cell " /><rect x="614" y="92" width="12" height="12" class="cell " /><rect x="614" y="110" width="12" height="12" class="cell " /><rect x="614" y="128" width="12" height="12" class="cell " /><rect x="632" y="20" width="12" height="12" class="cell " /><rect x="632" y="38" width="12" height="12" class="cell active" /><rect x="632" y="56" width="12" height="12" class="cell active" /><rect x="632" y="74" width="12" height="12" class="cell " /><rect x="632" y="92" width="12" height="12" class="cell " /><rect x="632" y="110" width="12" height="12" class="cell " /><rect x="632" y="128" width="12" height="12" class="cell " /><rect x="650" y="20" width="12" height="12" class="cell " /><rect x="650" y="38" width="12" height="12" class="cell " /><rect x="650" y="56" width="12" height="12" class="cell " /><rect x="650" y="74" width="12" height="12" class="cell " /><rect x="650" y="92" width="12" height="12" class="cell " /><rect x="650" y="110" width="12" height="12" class="cell " /><rect x="650" y="128" width="12" height="12" class="cell " /><rect x="668" y="20" width="12" height="12" class="cell " /><rect x="668" y="38" width="12" height="12" class="cell " /><rect x="668" y="56" width="12" height="12" class="cell " /><rect x="668" y="74" width="12" height="12" class="cell active" /><rect x="668" y="92" width="12" height="12" class="cell " /><rect x="668" y="110" width="12" height="12" class="cell " /><rect x="668" y="128" width="12" height="12" class="cell " /><rect x="686" y="20" width="12" height="12" class="cell " /><rect x="686" y="38" width="12" height="12" class="cell " /><rect x="686" y="56" width="12" height="12" class="cell " /><rect x="686" y="74" width="12" height="12" class="cell " /><rect x="686" y="92" width="12" height="12" class="cell " /><rect x="686" y="110" width="12" height="12" class="cell " /><rect x="686" y="128" width="12" height="12" class="cell " /><rect x="704" y="20" width="12" height="12" class="cell " /><rect x="704" y="38" width="12" height="12" class="cell " /><rect x="704" y="56" width="12" height="12" class="cell " /><rect x="704" y="74" width="12" height="12" class="cell " /><rect x="704" y="92" width="12" height="12" class="cell " /><rect x="704" y="110" width="12" height="12" class="cell " /><rect x="704" y="128" width="12" height="12" class="cell " /><rect x="722" y="20" width="12" height="12" class="cell " /><rect x="722" y="38" width="12" height="12" class="cell " /><rect x="722" y="56" width="12" height="12" class="cell " /><rect x="722" y="74" width="12" height="12" class="cell " /><rect x="722" y="92" width="12" height="12" class="cell " /><rect x="722" y="110" width="12" height="12" class="cell " /><rect x="722" y="128" width="12" height="12" class="cell " /><rect x="740" y="20" width="12" height="12" class="cell " /><rect x="740" y="38" width="12" height="12" class="cell " /><rect x="740" y="56" width="12" height="12" class="cell " /><rect x="740" y="74" width="12" height="12" class="cell " /><rect x="740" y="92" width="12" height="12" class="cell " /><rect x="740" y="110" width="12" height="12" class="cell " /><rect x="740" y="128" width="12" height="12" class="cell " /><rect x="758" y="20" width="12" height="12" class="cell " /><rect x="758" y="38" width="12" height="12" class="cell " /><rect x="758" y="56" width="12" height="12" class="cell " /><rect x="758" y="74" width="12" height="12" class="cell " /><rect x="758" y="92" width="12" height="12" class="cell " /><rect x="758" y="110" width="12" height="12" class="cell " /><rect x="758" y="128" width="12" height="12" class="cell " /><rect x="776" y="20" width="12" height="12" class="cell " /><rect x="776" y="38" width="12" height="12" class="cell " /><rect x="776" y="56" width="12" height="12" class="cell " /><rect x="776" y="74" width="12" height="12" class="cell " /><rect x="776" y="92" width="12" height="12" class="cell " /><rect x="776" y="110" width="12" height="12" class="cell " /><rect x="776" y="128" width="12" height="12" class="cell " /><rect x="794" y="20" width="12" height="12" class="cell active" /><rect x="794" y="38" width="12" height="12" class="cell " /><rect x="794" y="56" width="12" height="12" class="cell " /><rect x="794" y="74" width="12" height="12" class="cell " /><rect x="794" y="92" width="12" height="12" class="cell " /><rect x="794" y="110" width="12" height="12" class="cell " /><rect x="794" y="128" width="12" height="12" class="cell " /><rect x="812" y="20" width="12" height="12" class="cell active" /><rect x="812" y="38" width="12" height="12" class="cell " /><rect x="812" y="56" width="12" height="12" class="cell " /><rect x="812" y="74" width="12" height="12" class="cell " /><rect x="812" y="92" width="12" height="12" class="cell " /><rect x="812" y="110" width="12" height="12" class="cell " /><rect x="812" y="128" width="12" height="12" class="cell " /><rect x="830" y="20" width="12" height="12" class="cell " /><rect x="830" y="38" width="12" height="12" class="cell " /><rect x="830" y="56" width="12" height="12" class="cell " /><rect x="830" y="74" width="12" height="12" class="cell " /><rect x="830" y="92" width="12" height="12" class="cell " /><rect x="830" y="110" width="12" height="12" class="cell " /><rect x="830" y="128" width="12" height="12" class="cell " /><rect x="848" y="20" width="12" height="12" class="cell active" /><rect x="848" y="38" width="12" height="12" class="cell active" /><rect x="848" y="56" width="12" height="12" class="cell " /><rect x="848" y="74" width="12" height="12" class="cell " /><rect x="848" y="92" width="12" height="12" class="cell active" /><rect x="848" y="110" width="12" height="12" class="cell active" /><rect x="848" y="128" width="12" height="12" class="cell " /><rect x="866" y="20" width="12" height="12" class="cell " /><rect x="866" y="38" width="12" height="12" class="cell " /><rect x="866" y="56" width="12" height="12" class="cell " /><rect x="866" y="74" width="12" height="12" class="cell " /><rect x="866" y="92" width="12" height="12" class="cell " /><rect x="866" y="110" width="12" height="12" class="cell " /><rect x="866" y="128" width="12" height="12" class="cell " /><rect x="884" y="20" width="12" height="12" class="cell " /><rect x="884" y="38" width="12" height="12" class="cell " /><rect x="884" y="56" width="12" height="12" class="cell " /><rect x="884" y="74" width="12" height="12" class="cell " /><rect x="884" y="92" width="12" height="12" class="cell " /><rect x="884" y="110" width="12" height="12" class="cell " /><rect x="884" y="128" width="12" height="12" class="cell " /><rect x="902" y="20" width="12" height="12" class="cell " /><rect x="902" y="38" width="12" height="12" class="cell " /><rect x="902" y="56" width="12" height="12" class="cell " /><rect x="902" y="74" width="12" height="12" class="cell " /><rect x="902" y="92" width="12" height="12" class="cell " /><rect x="902" y="110" width="12" height="12" class="cell " /><rect x="902" y="128" width="12" height="12" class="cell " /><rect x="920" y="20" width="12" height="12" class="cell " /><rect x="920" y="38" width="12" height="12" class="cell " /><rect x="920" y="56" width="12" height="12" class="cell " /><rect x="920" y="74" width="12" height="12" class="cell " /><rect x="920" y="92" width="12" height="12" class="cell " /><rect x="920" y="110" width="12" height="12" class="cell " /><rect x="920" y="128" width="12" height="12" class="cell " /><rect x="938" y="20" width="12" height="12" class="cell " /><rect x="938" y="38" width="12" height="12" class="cell " /><rect x="938" y="56" width="12" height="12" class="cell " /><rect x="938" y="74" width="12" height="12" class="cell " /><rect x="938" y="92" width="12" height="12" class="cell " /><rect x="938" y="110" width="12" height="12" class="cell " /><rect x="938" y="128" width="12" height="12" class="cell " /><rect x="956" y="20" width="12" height="12" class="cell " /><rect x="956" y="38" width="12" height="12" class="cell active" /><rect x="956" y="56" width="12" height="12" class="cell " /><rect x="956" y="74" width="12" height="12" class="cell " /><rect x="956" y="92" width="12" height="12" class="cell " /><rect x="956" y="110" width="12" height="12" class="cell " /><rect x="956" y="128" width="12" height="12" class="cell " />
+  <rect x="20" y="20" width="12" height="12" class="cell " /><rect x="20" y="38" width="12" height="12" class="cell " /><rect x="20" y="56" width="12" height="12" class="cell " /><rect x="20" y="74" width="12" height="12" class="cell " /><rect x="20" y="92" width="12" height="12" class="cell " /><rect x="20" y="110" width="12" height="12" class="cell " /><rect x="20" y="128" width="12" height="12" class="cell " /><rect x="38" y="20" width="12" height="12" class="cell " /><rect x="38" y="38" width="12" height="12" class="cell " /><rect x="38" y="56" width="12" height="12" class="cell " /><rect x="38" y="74" width="12" height="12" class="cell " /><rect x="38" y="92" width="12" height="12" class="cell " /><rect x="38" y="110" width="12" height="12" class="cell " /><rect x="38" y="128" width="12" height="12" class="cell " /><rect x="56" y="20" width="12" height="12" class="cell " /><rect x="56" y="38" width="12" height="12" class="cell " /><rect x="56" y="56" width="12" height="12" class="cell " /><rect x="56" y="74" width="12" height="12" class="cell " /><rect x="56" y="92" width="12" height="12" class="cell " /><rect x="56" y="110" width="12" height="12" class="cell " /><rect x="56" y="128" width="12" height="12" class="cell " /><rect x="74" y="20" width="12" height="12" class="cell " /><rect x="74" y="38" width="12" height="12" class="cell " /><rect x="74" y="56" width="12" height="12" class="cell " /><rect x="74" y="74" width="12" height="12" class="cell " /><rect x="74" y="92" width="12" height="12" class="cell " /><rect x="74" y="110" width="12" height="12" class="cell " /><rect x="74" y="128" width="12" height="12" class="cell " /><rect x="92" y="20" width="12" height="12" class="cell " /><rect x="92" y="38" width="12" height="12" class="cell " /><rect x="92" y="56" width="12" height="12" class="cell " /><rect x="92" y="74" width="12" height="12" class="cell " /><rect x="92" y="92" width="12" height="12" class="cell " /><rect x="92" y="110" width="12" height="12" class="cell " /><rect x="92" y="128" width="12" height="12" class="cell " /><rect x="110" y="20" width="12" height="12" class="cell " /><rect x="110" y="38" width="12" height="12" class="cell " /><rect x="110" y="56" width="12" height="12" class="cell " /><rect x="110" y="74" width="12" height="12" class="cell " /><rect x="110" y="92" width="12" height="12" class="cell " /><rect x="110" y="110" width="12" height="12" class="cell " /><rect x="110" y="128" width="12" height="12" class="cell " /><rect x="128" y="20" width="12" height="12" class="cell " /><rect x="128" y="38" width="12" height="12" class="cell " /><rect x="128" y="56" width="12" height="12" class="cell " /><rect x="128" y="74" width="12" height="12" class="cell " /><rect x="128" y="92" width="12" height="12" class="cell " /><rect x="128" y="110" width="12" height="12" class="cell " /><rect x="128" y="128" width="12" height="12" class="cell " /><rect x="146" y="20" width="12" height="12" class="cell " /><rect x="146" y="38" width="12" height="12" class="cell " /><rect x="146" y="56" width="12" height="12" class="cell " /><rect x="146" y="74" width="12" height="12" class="cell " /><rect x="146" y="92" width="12" height="12" class="cell " /><rect x="146" y="110" width="12" height="12" class="cell " /><rect x="146" y="128" width="12" height="12" class="cell " /><rect x="164" y="20" width="12" height="12" class="cell " /><rect x="164" y="38" width="12" height="12" class="cell " /><rect x="164" y="56" width="12" height="12" class="cell " /><rect x="164" y="74" width="12" height="12" class="cell " /><rect x="164" y="92" width="12" height="12" class="cell " /><rect x="164" y="110" width="12" height="12" class="cell " /><rect x="164" y="128" width="12" height="12" class="cell " /><rect x="182" y="20" width="12" height="12" class="cell " /><rect x="182" y="38" width="12" height="12" class="cell " /><rect x="182" y="56" width="12" height="12" class="cell " /><rect x="182" y="74" width="12" height="12" class="cell " /><rect x="182" y="92" width="12" height="12" class="cell " /><rect x="182" y="110" width="12" height="12" class="cell " /><rect x="182" y="128" width="12" height="12" class="cell " /><rect x="200" y="20" width="12" height="12" class="cell " /><rect x="200" y="38" width="12" height="12" class="cell " /><rect x="200" y="56" width="12" height="12" class="cell " /><rect x="200" y="74" width="12" height="12" class="cell " /><rect x="200" y="92" width="12" height="12" class="cell " /><rect x="200" y="110" width="12" height="12" class="cell " /><rect x="200" y="128" width="12" height="12" class="cell " /><rect x="218" y="20" width="12" height="12" class="cell " /><rect x="218" y="38" width="12" height="12" class="cell " /><rect x="218" y="56" width="12" height="12" class="cell " /><rect x="218" y="74" width="12" height="12" class="cell " /><rect x="218" y="92" width="12" height="12" class="cell " /><rect x="218" y="110" width="12" height="12" class="cell " /><rect x="218" y="128" width="12" height="12" class="cell " /><rect x="236" y="20" width="12" height="12" class="cell " /><rect x="236" y="38" width="12" height="12" class="cell " /><rect x="236" y="56" width="12" height="12" class="cell " /><rect x="236" y="74" width="12" height="12" class="cell " /><rect x="236" y="92" width="12" height="12" class="cell " /><rect x="236" y="110" width="12" height="12" class="cell " /><rect x="236" y="128" width="12" height="12" class="cell " /><rect x="254" y="20" width="12" height="12" class="cell " /><rect x="254" y="38" width="12" height="12" class="cell " /><rect x="254" y="56" width="12" height="12" class="cell " /><rect x="254" y="74" width="12" height="12" class="cell " /><rect x="254" y="92" width="12" height="12" class="cell " /><rect x="254" y="110" width="12" height="12" class="cell " /><rect x="254" y="128" width="12" height="12" class="cell " /><rect x="272" y="20" width="12" height="12" class="cell active" /><rect x="272" y="38" width="12" height="12" class="cell active" /><rect x="272" y="56" width="12" height="12" class="cell active" /><rect x="272" y="74" width="12" height="12" class="cell active" /><rect x="272" y="92" width="12" height="12" class="cell active" /><rect x="272" y="110" width="12" height="12" class="cell " /><rect x="272" y="128" width="12" height="12" class="cell " /><rect x="290" y="20" width="12" height="12" class="cell active" /><rect x="290" y="38" width="12" height="12" class="cell " /><rect x="290" y="56" width="12" height="12" class="cell " /><rect x="290" y="74" width="12" height="12" class="cell " /><rect x="290" y="92" width="12" height="12" class="cell " /><rect x="290" y="110" width="12" height="12" class="cell " /><rect x="290" y="128" width="12" height="12" class="cell " /><rect x="308" y="20" width="12" height="12" class="cell active" /><rect x="308" y="38" width="12" height="12" class="cell " /><rect x="308" y="56" width="12" height="12" class="cell active" /><rect x="308" y="74" width="12" height="12" class="cell " /><rect x="308" y="92" width="12" height="12" class="cell " /><rect x="308" y="110" width="12" height="12" class="cell active" /><rect x="308" y="128" width="12" height="12" class="cell " /><rect x="326" y="20" width="12" height="12" class="cell " /><rect x="326" y="38" width="12" height="12" class="cell active" /><rect x="326" y="56" width="12" height="12" class="cell active" /><rect x="326" y="74" width="12" height="12" class="cell " /><rect x="326" y="92" width="12" height="12" class="cell " /><rect x="326" y="110" width="12" height="12" class="cell " /><rect x="326" y="128" width="12" height="12" class="cell " /><rect x="344" y="20" width="12" height="12" class="cell active" /><rect x="344" y="38" width="12" height="12" class="cell active" /><rect x="344" y="56" width="12" height="12" class="cell " /><rect x="344" y="74" width="12" height="12" class="cell " /><rect x="344" y="92" width="12" height="12" class="cell " /><rect x="344" y="110" width="12" height="12" class="cell active" /><rect x="344" y="128" width="12" height="12" class="cell " /><rect x="362" y="20" width="12" height="12" class="cell active" /><rect x="362" y="38" width="12" height="12" class="cell active" /><rect x="362" y="56" width="12" height="12" class="cell active" /><rect x="362" y="74" width="12" height="12" class="cell " /><rect x="362" y="92" width="12" height="12" class="cell " /><rect x="362" y="110" width="12" height="12" class="cell " /><rect x="362" y="128" width="12" height="12" class="cell " /><rect x="380" y="20" width="12" height="12" class="cell " /><rect x="380" y="38" width="12" height="12" class="cell " /><rect x="380" y="56" width="12" height="12" class="cell " /><rect x="380" y="74" width="12" height="12" class="cell " /><rect x="380" y="92" width="12" height="12" class="cell " /><rect x="380" y="110" width="12" height="12" class="cell " /><rect x="380" y="128" width="12" height="12" class="cell " /><rect x="398" y="20" width="12" height="12" class="cell " /><rect x="398" y="38" width="12" height="12" class="cell " /><rect x="398" y="56" width="12" height="12" class="cell " /><rect x="398" y="74" width="12" height="12" class="cell " /><rect x="398" y="92" width="12" height="12" class="cell " /><rect x="398" y="110" width="12" height="12" class="cell " /><rect x="398" y="128" width="12" height="12" class="cell " /><rect x="416" y="20" width="12" height="12" class="cell " /><rect x="416" y="38" width="12" height="12" class="cell " /><rect x="416" y="56" width="12" height="12" class="cell " /><rect x="416" y="74" width="12" height="12" class="cell " /><rect x="416" y="92" width="12" height="12" class="cell " /><rect x="416" y="110" width="12" height="12" class="cell " /><rect x="416" y="128" width="12" height="12" class="cell " /><rect x="434" y="20" width="12" height="12" class="cell active" /><rect x="434" y="38" width="12" height="12" class="cell " /><rect x="434" y="56" width="12" height="12" class="cell " /><rect x="434" y="74" width="12" height="12" class="cell " /><rect x="434" y="92" width="12" height="12" class="cell " /><rect x="434" y="110" width="12" height="12" class="cell " /><rect x="434" y="128" width="12" height="12" class="cell " /><rect x="452" y="20" width="12" height="12" class="cell " /><rect x="452" y="38" width="12" height="12" class="cell " /><rect x="452" y="56" width="12" height="12" class="cell " /><rect x="452" y="74" width="12" height="12" class="cell " /><rect x="452" y="92" width="12" height="12" class="cell " /><rect x="452" y="110" width="12" height="12" class="cell " /><rect x="452" y="128" width="12" height="12" class="cell " /><rect x="470" y="20" width="12" height="12" class="cell " /><rect x="470" y="38" width="12" height="12" class="cell " /><rect x="470" y="56" width="12" height="12" class="cell " /><rect x="470" y="74" width="12" height="12" class="cell " /><rect x="470" y="92" width="12" height="12" class="cell " /><rect x="470" y="110" width="12" height="12" class="cell " /><rect x="470" y="128" width="12" height="12" class="cell " /><rect x="488" y="20" width="12" height="12" class="cell " /><rect x="488" y="38" width="12" height="12" class="cell " /><rect x="488" y="56" width="12" height="12" class="cell " /><rect x="488" y="74" width="12" height="12" class="cell " /><rect x="488" y="92" width="12" height="12" class="cell " /><rect x="488" y="110" width="12" height="12" class="cell " /><rect x="488" y="128" width="12" height="12" class="cell " /><rect x="506" y="20" width="12" height="12" class="cell " /><rect x="506" y="38" width="12" height="12" class="cell active" /><rect x="506" y="56" width="12" height="12" class="cell " /><rect x="506" y="74" width="12" height="12" class="cell active" /><rect x="506" y="92" width="12" height="12" class="cell active" /><rect x="506" y="110" width="12" height="12" class="cell active" /><rect x="506" y="128" width="12" height="12" class="cell active" /><rect x="524" y="20" width="12" height="12" class="cell " /><rect x="524" y="38" width="12" height="12" class="cell " /><rect x="524" y="56" width="12" height="12" class="cell " /><rect x="524" y="74" width="12" height="12" class="cell " /><rect x="524" y="92" width="12" height="12" class="cell " /><rect x="524" y="110" width="12" height="12" class="cell " /><rect x="524" y="128" width="12" height="12" class="cell " /><rect x="542" y="20" width="12" height="12" class="cell " /><rect x="542" y="38" width="12" height="12" class="cell " /><rect x="542" y="56" width="12" height="12" class="cell " /><rect x="542" y="74" width="12" height="12" class="cell " /><rect x="542" y="92" width="12" height="12" class="cell " /><rect x="542" y="110" width="12" height="12" class="cell " /><rect x="542" y="128" width="12" height="12" class="cell " /><rect x="560" y="20" width="12" height="12" class="cell active" /><rect x="560" y="38" width="12" height="12" class="cell " /><rect x="560" y="56" width="12" height="12" class="cell " /><rect x="560" y="74" width="12" height="12" class="cell " /><rect x="560" y="92" width="12" height="12" class="cell " /><rect x="560" y="110" width="12" height="12" class="cell " /><rect x="560" y="128" width="12" height="12" class="cell " /><rect x="578" y="20" width="12" height="12" class="cell " /><rect x="578" y="38" width="12" height="12" class="cell " /><rect x="578" y="56" width="12" height="12" class="cell " /><rect x="578" y="74" width="12" height="12" class="cell " /><rect x="578" y="92" width="12" height="12" class="cell " /><rect x="578" y="110" width="12" height="12" class="cell " /><rect x="578" y="128" width="12" height="12" class="cell " /><rect x="596" y="20" width="12" height="12" class="cell " /><rect x="596" y="38" width="12" height="12" class="cell " /><rect x="596" y="56" width="12" height="12" class="cell " /><rect x="596" y="74" width="12" height="12" class="cell " /><rect x="596" y="92" width="12" height="12" class="cell " /><rect x="596" y="110" width="12" height="12" class="cell " /><rect x="596" y="128" width="12" height="12" class="cell " /><rect x="614" y="20" width="12" height="12" class="cell " /><rect x="614" y="38" width="12" height="12" class="cell active" /><rect x="614" y="56" width="12" height="12" class="cell active" /><rect x="614" y="74" width="12" height="12" class="cell " /><rect x="614" y="92" width="12" height="12" class="cell " /><rect x="614" y="110" width="12" height="12" class="cell " /><rect x="614" y="128" width="12" height="12" class="cell " /><rect x="632" y="20" width="12" height="12" class="cell " /><rect x="632" y="38" width="12" height="12" class="cell " /><rect x="632" y="56" width="12" height="12" class="cell " /><rect x="632" y="74" width="12" height="12" class="cell " /><rect x="632" y="92" width="12" height="12" class="cell " /><rect x="632" y="110" width="12" height="12" class="cell " /><rect x="632" y="128" width="12" height="12" class="cell " /><rect x="650" y="20" width="12" height="12" class="cell " /><rect x="650" y="38" width="12" height="12" class="cell " /><rect x="650" y="56" width="12" height="12" class="cell " /><rect x="650" y="74" width="12" height="12" class="cell active" /><rect x="650" y="92" width="12" height="12" class="cell " /><rect x="650" y="110" width="12" height="12" class="cell " /><rect x="650" y="128" width="12" height="12" class="cell " /><rect x="668" y="20" width="12" height="12" class="cell " /><rect x="668" y="38" width="12" height="12" class="cell " /><rect x="668" y="56" width="12" height="12" class="cell " /><rect x="668" y="74" width="12" height="12" class="cell " /><rect x="668" y="92" width="12" height="12" class="cell " /><rect x="668" y="110" width="12" height="12" class="cell " /><rect x="668" y="128" width="12" height="12" class="cell " /><rect x="686" y="20" width="12" height="12" class="cell " /><rect x="686" y="38" width="12" height="12" class="cell " /><rect x="686" y="56" width="12" height="12" class="cell " /><rect x="686" y="74" width="12" height="12" class="cell " /><rect x="686" y="92" width="12" height="12" class="cell " /><rect x="686" y="110" width="12" height="12" class="cell " /><rect x="686" y="128" width="12" height="12" class="cell " /><rect x="704" y="20" width="12" height="12" class="cell " /><rect x="704" y="38" width="12" height="12" class="cell " /><rect x="704" y="56" width="12" height="12" class="cell " /><rect x="704" y="74" width="12" height="12" class="cell " /><rect x="704" y="92" width="12" height="12" class="cell " /><rect x="704" y="110" width="12" height="12" class="cell " /><rect x="704" y="128" width="12" height="12" class="cell " /><rect x="722" y="20" width="12" height="12" class="cell " /><rect x="722" y="38" width="12" height="12" class="cell " /><rect x="722" y="56" width="12" height="12" class="cell " /><rect x="722" y="74" width="12" height="12" class="cell " /><rect x="722" y="92" width="12" height="12" class="cell " /><rect x="722" y="110" width="12" height="12" class="cell " /><rect x="722" y="128" width="12" height="12" class="cell " /><rect x="740" y="20" width="12" height="12" class="cell " /><rect x="740" y="38" width="12" height="12" class="cell " /><rect x="740" y="56" width="12" height="12" class="cell " /><rect x="740" y="74" width="12" height="12" class="cell " /><rect x="740" y="92" width="12" height="12" class="cell " /><rect x="740" y="110" width="12" height="12" class="cell " /><rect x="740" y="128" width="12" height="12" class="cell " /><rect x="758" y="20" width="12" height="12" class="cell " /><rect x="758" y="38" width="12" height="12" class="cell " /><rect x="758" y="56" width="12" height="12" class="cell " /><rect x="758" y="74" width="12" height="12" class="cell " /><rect x="758" y="92" width="12" height="12" class="cell " /><rect x="758" y="110" width="12" height="12" class="cell " /><rect x="758" y="128" width="12" height="12" class="cell " /><rect x="776" y="20" width="12" height="12" class="cell active" /><rect x="776" y="38" width="12" height="12" class="cell " /><rect x="776" y="56" width="12" height="12" class="cell " /><rect x="776" y="74" width="12" height="12" class="cell " /><rect x="776" y="92" width="12" height="12" class="cell " /><rect x="776" y="110" width="12" height="12" class="cell " /><rect x="776" y="128" width="12" height="12" class="cell " /><rect x="794" y="20" width="12" height="12" class="cell active" /><rect x="794" y="38" width="12" height="12" class="cell " /><rect x="794" y="56" width="12" height="12" class="cell " /><rect x="794" y="74" width="12" height="12" class="cell " /><rect x="794" y="92" width="12" height="12" class="cell " /><rect x="794" y="110" width="12" height="12" class="cell " /><rect x="794" y="128" width="12" height="12" class="cell " /><rect x="812" y="20" width="12" height="12" class="cell " /><rect x="812" y="38" width="12" height="12" class="cell " /><rect x="812" y="56" width="12" height="12" class="cell " /><rect x="812" y="74" width="12" height="12" class="cell " /><rect x="812" y="92" width="12" height="12" class="cell " /><rect x="812" y="110" width="12" height="12" class="cell " /><rect x="812" y="128" width="12" height="12" class="cell " /><rect x="830" y="20" width="12" height="12" class="cell active" /><rect x="830" y="38" width="12" height="12" class="cell active" /><rect x="830" y="56" width="12" height="12" class="cell " /><rect x="830" y="74" width="12" height="12" class="cell " /><rect x="830" y="92" width="12" height="12" class="cell active" /><rect x="830" y="110" width="12" height="12" class="cell active" /><rect x="830" y="128" width="12" height="12" class="cell " /><rect x="848" y="20" width="12" height="12" class="cell " /><rect x="848" y="38" width="12" height="12" class="cell " /><rect x="848" y="56" width="12" height="12" class="cell " /><rect x="848" y="74" width="12" height="12" class="cell " /><rect x="848" y="92" width="12" height="12" class="cell " /><rect x="848" y="110" width="12" height="12" class="cell " /><rect x="848" y="128" width="12" height="12" class="cell " /><rect x="866" y="20" width="12" height="12" class="cell " /><rect x="866" y="38" width="12" height="12" class="cell " /><rect x="866" y="56" width="12" height="12" class="cell " /><rect x="866" y="74" width="12" height="12" class="cell " /><rect x="866" y="92" width="12" height="12" class="cell " /><rect x="866" y="110" width="12" height="12" class="cell " /><rect x="866" y="128" width="12" height="12" class="cell " /><rect x="884" y="20" width="12" height="12" class="cell " /><rect x="884" y="38" width="12" height="12" class="cell " /><rect x="884" y="56" width="12" height="12" class="cell " /><rect x="884" y="74" width="12" height="12" class="cell " /><rect x="884" y="92" width="12" height="12" class="cell " /><rect x="884" y="110" width="12" height="12" class="cell " /><rect x="884" y="128" width="12" height="12" class="cell " /><rect x="902" y="20" width="12" height="12" class="cell " /><rect x="902" y="38" width="12" height="12" class="cell " /><rect x="902" y="56" width="12" height="12" class="cell " /><rect x="902" y="74" width="12" height="12" class="cell " /><rect x="902" y="92" width="12" height="12" class="cell " /><rect x="902" y="110" width="12" height="12" class="cell " /><rect x="902" y="128" width="12" height="12" class="cell " /><rect x="920" y="20" width="12" height="12" class="cell " /><rect x="920" y="38" width="12" height="12" class="cell " /><rect x="920" y="56" width="12" height="12" class="cell " /><rect x="920" y="74" width="12" height="12" class="cell " /><rect x="920" y="92" width="12" height="12" class="cell " /><rect x="920" y="110" width="12" height="12" class="cell " /><rect x="920" y="128" width="12" height="12" class="cell " /><rect x="938" y="20" width="12" height="12" class="cell " /><rect x="938" y="38" width="12" height="12" class="cell active" /><rect x="938" y="56" width="12" height="12" class="cell " /><rect x="938" y="74" width="12" height="12" class="cell " /><rect x="938" y="92" width="12" height="12" class="cell " /><rect x="938" y="110" width="12" height="12" class="cell " /><rect x="938" y="128" width="12" height="12" class="cell " /><rect x="956" y="20" width="12" height="12" class="cell " />
       <circle r="4" class="comet">
         <animateMotion
           dur="0.6s"
           begin="0s"
           repeatCount="indefinite"
-          path="M 266 -14 L 296 26" />
+          path="M 248 -14 L 278 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -18,7 +18,7 @@
           dur="0.6s"
           begin="0.6s"
           repeatCount="indefinite"
-          path="M 266 4 L 296 44" />
+          path="M 248 4 L 278 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -26,7 +26,7 @@
           dur="0.6s"
           begin="1.2s"
           repeatCount="indefinite"
-          path="M 266 22 L 296 62" />
+          path="M 248 22 L 278 62" />
       </circle>
     
       <circle r="4" class="comet">
@@ -34,7 +34,7 @@
           dur="0.6s"
           begin="1.7999999999999998s"
           repeatCount="indefinite"
-          path="M 266 40 L 296 80" />
+          path="M 248 40 L 278 80" />
       </circle>
     
       <circle r="4" class="comet">
@@ -42,7 +42,7 @@
           dur="0.6s"
           begin="2.4s"
           repeatCount="indefinite"
-          path="M 266 58 L 296 98" />
+          path="M 248 58 L 278 98" />
       </circle>
     
       <circle r="4" class="comet">
@@ -50,7 +50,7 @@
           dur="0.6s"
           begin="3s"
           repeatCount="indefinite"
-          path="M 284 -14 L 314 26" />
+          path="M 266 -14 L 296 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -58,7 +58,7 @@
           dur="0.6s"
           begin="3.5999999999999996s"
           repeatCount="indefinite"
-          path="M 302 -14 L 332 26" />
+          path="M 284 -14 L 314 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -66,7 +66,7 @@
           dur="0.6s"
           begin="4.2s"
           repeatCount="indefinite"
-          path="M 302 22 L 332 62" />
+          path="M 284 22 L 314 62" />
       </circle>
     
       <circle r="4" class="comet">
@@ -74,7 +74,7 @@
           dur="0.6s"
           begin="4.8s"
           repeatCount="indefinite"
-          path="M 302 76 L 332 116" />
+          path="M 284 76 L 314 116" />
       </circle>
     
       <circle r="4" class="comet">
@@ -82,7 +82,7 @@
           dur="0.6s"
           begin="5.3999999999999995s"
           repeatCount="indefinite"
-          path="M 320 4 L 350 44" />
+          path="M 302 4 L 332 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -90,7 +90,7 @@
           dur="0.6s"
           begin="6s"
           repeatCount="indefinite"
-          path="M 320 22 L 350 62" />
+          path="M 302 22 L 332 62" />
       </circle>
     
       <circle r="4" class="comet">
@@ -98,7 +98,7 @@
           dur="0.6s"
           begin="6.6s"
           repeatCount="indefinite"
-          path="M 338 -14 L 368 26" />
+          path="M 320 -14 L 350 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -106,7 +106,7 @@
           dur="0.6s"
           begin="7.199999999999999s"
           repeatCount="indefinite"
-          path="M 338 4 L 368 44" />
+          path="M 320 4 L 350 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -114,7 +114,7 @@
           dur="0.6s"
           begin="7.8s"
           repeatCount="indefinite"
-          path="M 338 76 L 368 116" />
+          path="M 320 76 L 350 116" />
       </circle>
     
       <circle r="4" class="comet">
@@ -122,7 +122,7 @@
           dur="0.6s"
           begin="8.4s"
           repeatCount="indefinite"
-          path="M 356 -14 L 386 26" />
+          path="M 338 -14 L 368 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -130,7 +130,7 @@
           dur="0.6s"
           begin="9s"
           repeatCount="indefinite"
-          path="M 356 4 L 386 44" />
+          path="M 338 4 L 368 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -138,7 +138,7 @@
           dur="0.6s"
           begin="9.6s"
           repeatCount="indefinite"
-          path="M 356 22 L 386 62" />
+          path="M 338 22 L 368 62" />
       </circle>
     
       <circle r="4" class="comet">
@@ -146,7 +146,7 @@
           dur="0.6s"
           begin="10.2s"
           repeatCount="indefinite"
-          path="M 428 -14 L 458 26" />
+          path="M 410 -14 L 440 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -154,7 +154,7 @@
           dur="0.6s"
           begin="10.799999999999999s"
           repeatCount="indefinite"
-          path="M 500 4 L 530 44" />
+          path="M 482 4 L 512 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -162,7 +162,7 @@
           dur="0.6s"
           begin="11.4s"
           repeatCount="indefinite"
-          path="M 500 40 L 530 80" />
+          path="M 482 40 L 512 80" />
       </circle>
     
       <circle r="4" class="comet">
@@ -170,7 +170,7 @@
           dur="0.6s"
           begin="12s"
           repeatCount="indefinite"
-          path="M 500 58 L 530 98" />
+          path="M 482 58 L 512 98" />
       </circle>
     
       <circle r="4" class="comet">
@@ -178,7 +178,7 @@
           dur="0.6s"
           begin="12.6s"
           repeatCount="indefinite"
-          path="M 500 76 L 530 116" />
+          path="M 482 76 L 512 116" />
       </circle>
     
       <circle r="4" class="comet">
@@ -186,7 +186,7 @@
           dur="0.6s"
           begin="13.2s"
           repeatCount="indefinite"
-          path="M 500 94 L 530 134" />
+          path="M 482 94 L 512 134" />
       </circle>
     
       <circle r="4" class="comet">
@@ -194,7 +194,7 @@
           dur="0.6s"
           begin="13.799999999999999s"
           repeatCount="indefinite"
-          path="M 554 -14 L 584 26" />
+          path="M 536 -14 L 566 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -202,7 +202,7 @@
           dur="0.6s"
           begin="14.399999999999999s"
           repeatCount="indefinite"
-          path="M 608 4 L 638 44" />
+          path="M 590 4 L 620 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -210,7 +210,7 @@
           dur="0.6s"
           begin="15s"
           repeatCount="indefinite"
-          path="M 608 22 L 638 62" />
+          path="M 590 22 L 620 62" />
       </circle>
     
       <circle r="4" class="comet">
@@ -218,7 +218,7 @@
           dur="0.6s"
           begin="15.6s"
           repeatCount="indefinite"
-          path="M 644 40 L 674 80" />
+          path="M 626 40 L 656 80" />
       </circle>
     
       <circle r="4" class="comet">
@@ -226,7 +226,7 @@
           dur="0.6s"
           begin="16.2s"
           repeatCount="indefinite"
-          path="M 770 -14 L 800 26" />
+          path="M 752 -14 L 782 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -234,7 +234,7 @@
           dur="0.6s"
           begin="16.8s"
           repeatCount="indefinite"
-          path="M 788 -14 L 818 26" />
+          path="M 770 -14 L 800 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -242,7 +242,7 @@
           dur="0.6s"
           begin="17.4s"
           repeatCount="indefinite"
-          path="M 824 -14 L 854 26" />
+          path="M 806 -14 L 836 26" />
       </circle>
     
       <circle r="4" class="comet">
@@ -250,7 +250,7 @@
           dur="0.6s"
           begin="18s"
           repeatCount="indefinite"
-          path="M 824 4 L 854 44" />
+          path="M 806 4 L 836 44" />
       </circle>
     
       <circle r="4" class="comet">
@@ -258,7 +258,7 @@
           dur="0.6s"
           begin="18.599999999999998s"
           repeatCount="indefinite"
-          path="M 824 58 L 854 98" />
+          path="M 806 58 L 836 98" />
       </circle>
     
       <circle r="4" class="comet">
@@ -266,7 +266,7 @@
           dur="0.6s"
           begin="19.2s"
           repeatCount="indefinite"
-          path="M 824 76 L 854 116" />
+          path="M 806 76 L 836 116" />
       </circle>
     
       <circle r="4" class="comet">
@@ -274,6 +274,6 @@
           dur="0.6s"
           begin="19.8s"
           repeatCount="indefinite"
-          path="M 932 4 L 962 44" />
+          path="M 914 4 L 944 44" />
       </circle>
     </svg>
